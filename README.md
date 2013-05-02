@@ -53,7 +53,7 @@ class MyEngine(BaseEngine):
         else:
             return "There was an error. No rate for you."
 
-bot = XMPPBot( 'bot@kode.co.za', 'P#s5W#0rD!' )
+bot = XMPPBot( 'bot@kode.co.za', 'XxXxXxX' )
 
 # This is where you register the engine
 bot.register_engine(MyEngine)
